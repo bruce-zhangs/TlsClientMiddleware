@@ -23,7 +23,7 @@ For the preset usage of tls_client:
 ### Settings for Tls_Client Session
 
 ```python
-CLIENT_IDENTIFIER = 'chrome112'
+CLIENT_IDENTIFIER = 'chrome_112'
 RANDOM_TLS_EXTENSION_ORDER = True
 FORCE_HTTP1 = False #default False
 CATCH_PANICS = False #default False

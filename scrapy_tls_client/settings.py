@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 # You can also use the following as `client_identifier`:
-# Chrome --> chrome_103, chrome_104, chrome_105, chrome_106, chrome_107, chrome_108, chrome109, Chrome110,
-#            chrome111, chrome112
+# Chrome --> chrome_103, chrome_104, chrome_105, chrome_106, chrome_107, chrome_108, chrome_109, Chrome_110,
+#            chrome_111, chrome_112
 # Firefox --> firefox_102, firefox_104, firefox108, Firefox110
 # Opera --> opera_89, opera_90
 # Safari --> safari_15_3, safari_15_6_1, safari_16_0

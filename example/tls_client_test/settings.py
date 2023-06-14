@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-CLIENT_IDENTIFIER = 'chrome112'
+CLIENT_IDENTIFIER = 'chrome_112'
 RANDOM_TLS_EXTENSION_ORDER = True
 
 
@@ -58,7 +58,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-   "scrapy_tls_client.tlsclientmiddleware.TlsClientDownloaderMiddleware": 543,
+   "scrapy_tls_client.downloaderMiddleware.TlsClientDownloaderMiddleware": 543,
 }
 
 # Enable or disable extensions
