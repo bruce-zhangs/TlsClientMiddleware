@@ -1,0 +1,2 @@
+scrapy>=2.0.0
+tls_client>=0.2.1
